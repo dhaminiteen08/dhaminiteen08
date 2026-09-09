@@ -1,0 +1,44 @@
+<svg viewBox="0 0 490 424" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, monospace">
+<rect x="0.5" y="0.5" width="489" height="423" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0.5" y="0.5" width="489" height="36" rx="10" fill="#161b22"/>
+<rect x="0.5" y="26.5" width="489" height="10" fill="#161b22"/>
+<circle cx="22" cy="18.5" r="6" fill="#ff5f56"/>
+<circle cx="40" cy="18.5" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="18.5" r="6" fill="#27c93f"/>
+<text x="245.0" y="23" text-anchor="middle" fill="#c9d1d9" font-size="13">dhaminiteen08@github</text>
+<g opacity="0" transform="translate(-14,0)">
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.5s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.00s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+<circle cx="26" cy="65" r="4" fill="#39d353"/>
+<text x="42" y="70" fill="#7d8590" font-size="14">Now</text>
+<text x="150" y="70" fill="#c9d1d9" font-size="14">Building things that click</text>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.5s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.35s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+<circle cx="26" cy="125" r="4" fill="#26a641"/>
+<text x="42" y="130" fill="#7d8590" font-size="14">Prev</text>
+<text x="150" y="130" fill="#c9d1d9" font-size="14">Add your last role / focus here</text>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.5s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="0.70s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+<circle cx="26" cy="185" r="4" fill="#69f0a0"/>
+<text x="42" y="190" fill="#7d8590" font-size="14">Stack</text>
+<text x="150" y="190" fill="#c9d1d9" font-size="14">Python · TypeScript · React · SQL</text>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.5s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.05s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+<circle cx="26" cy="245" r="4" fill="#39d353"/>
+<text x="42" y="250" fill="#7d8590" font-size="14">Highlights</text>
+<text x="150" y="250" fill="#c9d1d9" font-size="14">Add a project or two worth bragging about</text>
+</g>
+<g opacity="0" transform="translate(-14,0)">
+<animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.5s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" begin="1.40s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0 0.2 1"/>
+<circle cx="26" cy="305" r="4" fill="#26a641"/>
+<text x="42" y="310" fill="#7d8590" font-size="14">Learning</text>
+<text x="150" y="310" fill="#c9d1d9" font-size="14">Whatever's next</text>
+</g>
+</svg>
